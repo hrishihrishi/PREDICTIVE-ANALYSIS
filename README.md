@@ -178,10 +178,6 @@ nest_asyncio
 
 python-multipart
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Author
 
 Developed as part of an internship project. If you have any questions, feel free to reach out!
